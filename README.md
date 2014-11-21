@@ -1,10 +1,63 @@
 ECLille-poo
 ===========
 
-jsfiddle test de modifications
+Prezi
+-----
 
-Thomas B. : http://jsfiddle.net/tomnab/m3Ls0zeL/
+https://prezi.com/7i17xkfiv2fb/bases-de-loriente-objet-et-du-dev-3d/
+
+jsfiddle presentation example
+-----------------------------
 
 http://jsfiddle.net/gwenaelhagenmuller/pk63z0x1/
 
-http://www.typescriptlang.org/Playground#src=class%20Personne%20{%0A%20%20%20%20prenom%3A%20string%3B%0A%09nom%3A%20string%3B%20%0A%09oo%20%3A%20boolean%3B%0A%20%20%20%20public%20constructor%28prenom%3A%20string%2C%20nom%3A%20string%2C%20oo%20%3A%20boolean%29%20{%0A%20%20%20%20%20%20%20%20this.prenom%20%3D%20prenom%3B%0A%09%09this.nom%20%3D%20nom%3B%20%09%0A%09%09if%20%28oo%20!%3D%20null%29%20this.oo%20%3D%20oo%3B%0A%09%09else%20this.oo%20%3D%20false%3B%0A%20%20%20%20}%0A%09%0A%09setOO%28oo%20%3A%20boolean%29%20{%0A%09%09this.oo%20%3D%20oo%3B%20%0A%09}%20%20%20%0A%09%0A%09show%28%29%0A%09{%0A%09%09alert%28this.prenom%20%2B%20%22%20%22%20%2B%20this.nom%20%0A%09%09%09%2B%28%28this.oo%29%3F%20%22%20connait%22%20%3A%20%22%20ne%20connait%20pas%22%29%29%3B%09%0A%09}%0A%09%0A%09getPinT%28%29%0A%09{%0A%09%09return%20%09%22%3Ctr%3E%3Ctd%3E%22%20%2B%20this.prenom%20%2B%20%22%3C%2Ftd%3E%3Ctd%3E%22%20%2B%20this.nom%0A%09%09%09%2B%20%22%3C%2Ftd%3E%3C%2Ftd%3E%22%20%2B%20this.oo%20%2B%20%22%3C%2Ftd%3E%3C%2Ftr%3E%22%3B%0A%09}%0A}%0A%0Avar%20team%20%3A%20Personne[]%20%3D%20[]%3B%20%0Ateam.push%28new%20Personne%28%22thomas%22%2C%22bous%22%2Ctrue%29%29%3B%0Ateam.push%28new%20Personne%28%22thomas2%22%2C%22bous2%22%29%29%3B%0A%2F*%0Aalert%28team[0].prenom%29%3B%0Aalert%28team[0].oo%29%3B%0A%0Aalert%28team[1].prenom%29%3B%0Aalert%28team[1].oo%29%3B*%2F%0A%0A%0Ateam[1].show%28%29%3B%0A%0A
+http://jsfiddle.net/Victor_Chanat/pdfr8x2x/
+http://jsfiddle.net/jfedjaev/zb9kgakd/
+http://jsfiddle.net/Ach4/rw79o80L/
+http://jsfiddle.net/tomnab/m3Ls0zeL/
+http://jsfiddle.net/sle_goff/6cb3gfr8/
+http://jsfiddle.net/vinceraes/1yr8pjzf/
+http://jsfiddle.net/BabarElephantKing/7vn86hts/
++http://jsfiddle.net/StarsMoon/ogxngorL/
+http://jsfiddle.net/maxenceleduc92/uecmv1fL/
+
+TypeScript Playground
+---------------------
+
+http://goo.gl/X7xhqe
+
+TortoiseGit
+-----------
+
+https://code.google.com/p/tortoisegit/wiki/Download
+
+SSH Key
+------
+
+http://withcode.com/2013/07/super-easy-ssh-key-setup-for-github-using-putty-on-windows/ (step 3 and step 4 ; step 5 only if you provide a passphrase for your private key)
+
+OOP references
+--------------
+
+http://openclassrooms.com/courses/apprenez-a-developper-en-c/introduction-a-la-programmation-orientee-objet
+
+Git references
+--------------
+
+http://git-scm.com/book/en/v2
+
+MCTQ
+---
+
+http://goo.gl/ufch3Y
+
+VS Express
+----------
+
+http://www.visualstudio.com/fr-fr/products/visual-studio-express-vs.aspx
+
+Collaborate on Documents Online in Real Time
+--------------------------------------------
+
+http://mashable.com/2009/02/21/online-document-collaboration/
+https://www.zoho.com/
